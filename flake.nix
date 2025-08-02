@@ -71,7 +71,7 @@
               outputHash = if pkgs.stdenv.isDarwin then
                 "sha256-BV1m58fUe1zfLH5iKbDP7KTNhv1p+g3W99tFQFYxPqs="
               else
-                "sha256-NtCSBxEo/4uuhlLc9Xqlq+PM1fAbDfRBH64imMLvKYE=";
+                "sha256-PRcO+6vJFi+4tP06YmwF32F2t2ReLuvcB81k3CCY3y0=";
             };
 
             configurePhase = ''
